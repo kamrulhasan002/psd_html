@@ -1,0 +1,42 @@
+.wrapper{
+	background-color:black;
+	color:yellow;
+}
+
+
+.section{
+	width: 400px;
+	color: white;
+}
+
+
+.wrapper1{
+	background-color: blue;
+	color: pink;
+
+}
+
+.continer{
+	width: 400px;
+	color: white;
+	
+}
+
+
+.box{
+	width: 100px;
+	height: 100px;
+}
+
+.box1{
+	background-color: red;
+}
+.box2{
+	background-color: blue;
+	margin: 100px;
+}
+
+.box3{
+	background-color: gray;
+	padding: 100px;
+}
